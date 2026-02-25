@@ -1,0 +1,6 @@
+aws_region       = "us-east-1"
+project_name     = "poster-generation"
+environment      = "dev"
+s3_bucket_name   = ""
+bedrock_model_id = "amazon.titan-image-generator-v2:0"
+image_prefix     = "generated"
